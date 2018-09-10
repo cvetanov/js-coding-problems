@@ -1,0 +1,27 @@
+{
+  "name": "js-coding-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm index.js",
+    "dev": "nodemon -r esm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvetanov/js-coding-problems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvetanov/js-coding-problems/issues"
+  },
+  "homepage": "https://github.com/cvetanov/js-coding-problems#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "esm": "^3.0.82"
+  }
+}
