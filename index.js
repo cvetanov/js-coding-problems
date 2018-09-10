@@ -1,1 +1,1 @@
-console.log('it works');
+import './sorting/merge-sorted-lists';
