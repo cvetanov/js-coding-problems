@@ -33,7 +33,7 @@ const findUniqueWaysToClimb = (steps, N) => {
         steps.forEach(step => {
             const previousStep = i - step;
 
-            if (previousStep >= 0) {
+            if (previousStep > 0) {
                 waysToClimb[i] = waysToClimb[i] + waysToClimb[previousStep];
             }
         });
@@ -42,4 +42,4 @@ const findUniqueWaysToClimb = (steps, N) => {
     return waysToClimb[N];
 }
 
-findUniqueWaysToClimb(steps, N);
+console.log(findUniqueWaysToClimb(steps, N));
