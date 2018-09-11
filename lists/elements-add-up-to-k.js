@@ -26,7 +26,6 @@ const doTwoElementsAddUpToK = (list, k) => {
         const addend = k - elem;
         map[addend] = true;
     }
-
     return false;
 }
 
