@@ -1,1 +1,1 @@
-import './dp/climbing-steps';
+import './lists/product-of-elements-except-at-index';
