@@ -1,1 +1,1 @@
-import './sorting/merge-sorted-lists';
+import './lists/elements-add-up-to-k';
