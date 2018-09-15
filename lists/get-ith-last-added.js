@@ -9,7 +9,11 @@ API:
 */
 
 const arr = [];
+
+// O(1) assumption, `Array.prototype.push` works in constant time
 const record = (id) => arr.push(id);
+
+// O(1) with assumption `arr.length` is contant
 const getLast = (i) => arr[arr.length - i];
 
 record(1);
