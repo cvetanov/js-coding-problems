@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest --watch",
     "start": "node -r esm index.js",
     "dev": "nodemon -r esm index.js"
   },
@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "esm": "^3.0.82",
-    "heap": "^0.2.6"
+    "heap": "^0.2.6",
+    "jest": "^23.6.0"
   }
 }
