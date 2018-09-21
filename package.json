@@ -24,6 +24,7 @@
   "dependencies": {
     "esm": "^3.0.82",
     "heap": "^0.2.6",
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "trie-search": "^1.2.8"
   }
 }

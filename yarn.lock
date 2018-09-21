@@ -1220,6 +1220,12 @@ has@^1.0.1:
   dependencies:
     function-bind "^1.1.1"
 
+hasharray@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/hasharray/-/hasharray-1.1.1.tgz#0bfadd91c0ee76919c05eeef5a3dc1034b4ea4f1"
+  dependencies:
+    jclass "^1.0.1"
+
 heap@^0.2.6:
   version "0.2.6"
   resolved "https://registry.yarnpkg.com/heap/-/heap-0.2.6.tgz#087e1f10b046932fc8594dd9e6d378afc9d1e5ac"
@@ -1620,6 +1626,10 @@ istanbul-reports@^1.5.1:
   resolved "https://registry.yarnpkg.com/istanbul-reports/-/istanbul-reports-1.5.1.tgz#97e4dbf3b515e8c484caea15d6524eebd3ff4e1a"
   dependencies:
     handlebars "^4.0.3"
+
+jclass@^1.0.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/jclass/-/jclass-1.2.1.tgz#eaafeec0dd6a5bf8b3ea43c04e010c637638768b"
 
 jest-changed-files@^23.4.2:
   version "23.4.2"
@@ -3242,6 +3252,12 @@ tr46@^1.0.1:
   resolved "https://registry.yarnpkg.com/tr46/-/tr46-1.0.1.tgz#a8b13fd6bfd2489519674ccde55ba3693b706d09"
   dependencies:
     punycode "^2.1.0"
+
+trie-search@^1.2.8:
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/trie-search/-/trie-search-1.2.8.tgz#9cca9c4d0df7b6638ad56e5e6b1a90307b1a94af"
+  dependencies:
+    hasharray "^1.1.1"
 
 trim-right@^1.0.1:
   version "1.0.1"
