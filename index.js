@@ -1,1 +1,1 @@
-import './dp/painting-houses';
+import './lists/max-values-each-subarray-size-k';
