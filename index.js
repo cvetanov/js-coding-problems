@@ -1,1 +1,1 @@
-import './lists/max-values-each-subarray-size-k';
+import './lists/k-th-element-from-end';
