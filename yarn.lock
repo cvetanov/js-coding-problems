@@ -16,6 +16,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
+"@datastructures-js/stack@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@datastructures-js/stack/-/stack-1.0.2.tgz#0ed9e3a95e6535b3861fdab9447ce4db582ad620"
+
 abab@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.0.tgz#aba0ab4c5eee2d4c79d3487d85450fb2376ebb0f"

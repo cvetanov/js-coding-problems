@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/cvetanov/js-coding-problems#readme",
   "devDependencies": {
+    "@datastructures-js/stack": "^1.0.2",
     "nodemon": "^1.18.4"
   },
   "dependencies": {
